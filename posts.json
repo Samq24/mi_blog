@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "titulo": "Primer post",
+    "contenido": "¡Bienvenido a mi blog hecho solo con Python!"
+  },
+  {
+    "id": 2,
+    "titulo": "Segundo post",
+    "contenido": "Este proyecto me está ayudando a aprender Flask."
+  }
+]
