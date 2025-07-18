@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "titulo": "Crear Posts desde Navegador",
+    "contenido": "He creado este Post desde un formulario en el navegador"
+  },
+  {
+    "id": 2,
+    "titulo": "Segundo Post",
+    "contenido": "Ahora tengo un bot\u00f3n en la pagina principal para poder venir a la pagina \"Crear Nuevo Post\""
+  }
+]

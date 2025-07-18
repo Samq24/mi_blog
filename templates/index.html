@@ -8,6 +8,10 @@
 </head>
 <body>
   <h1>Mi Blog con Python</h1>
+  <a href="{{ url_for('nuevo_post') }}">
+  <button>Crear nuevo post</button>
+</a>
+  <hr>
   <ul>
     {% for post in posts %}
       <li><a href="/post/{{ post.id }}">{{ post.titulo }}</a></li>
